@@ -6,7 +6,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "EVNotify",
+  title: "EVNotify | Home",
   description: "This is Home Page of EVNotify ",
   // other metadata
 };
